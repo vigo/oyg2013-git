@@ -1,1 +1,2 @@
 dosya1
+dosya1'e ek
