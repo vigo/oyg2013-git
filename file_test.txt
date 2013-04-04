@@ -1,2 +1,2 @@
 dosya
-master'daki file_test.txt'ye 2.satır
+2.satır
